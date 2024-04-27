@@ -15,7 +15,7 @@ function Herosection() {
                     Take Control of Your Finances
                 </h1>
                 <p className='mt-10 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto'>
-                    Welcome to Tie Money, the ultimate solution for managing your income and expenses. Whether you're a student, professional, or small business owner, our easy-to-use platform helps you track every dollar and make informed financial decisions. Say goodbye to financial stress and start your journey toward financial freedom today.
+                    Welcome to Tie Money, the ultimate solution for managing your income and expenses. Whether you are a student, professional, or small business owner, our easy-to-use platform helps you track every dollar and make informed financial decisions. Say goodbye to financial stress and start your journey toward financial freedom today.
                 </p>
                 <div className="mt-7">
                     <Link href={"/analytics"}>
